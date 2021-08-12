@@ -9,8 +9,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://twitter.com/bernnstrom">
-    <img src="https://img.shields.io/twitter/follow/bernnstrom?logo=twitter&style=for-the-badge" align="center">        
+  <a href="https://twitter.com/bilalkhalid229">
+    <img src="https://img.shields.io/twitter/follow/bilalkhalid229?logo=twitter&style=for-the-badge" align="center">        
   </a>
 </p>
 
@@ -33,9 +33,8 @@
 ## 🛠️ &nbsp;Tech Stack
 
 - **MOBILE**\
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">&nbsp;
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">&nbsp;
-<img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=black" alt="SwiftUI">&nbsp;
+<img src="https://img.shields.io/badge/Flutter-eee?style=for-the-badge&logo=flutter&logoColor=skyblue" alt="Flutter">&nbsp;
+<img src="https://img.shields.io/badge/Android%20Studio-ccc?style=for-the-badge&logo=android&logoColor=669933" alt="Android Studio">&nbsp;
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">&nbsp;
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">&nbsp;
 
@@ -43,7 +42,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">&nbsp;
+<img src="https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.Js">&nbsp;
+<img src="https://img.shields.io/badge/Gatsby-fff?style=for-the-badge&logo=gatsby&logoColor=purple" alt="Gatsby">&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
   
@@ -51,7 +51,6 @@
 <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno">&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">&nbsp;
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">&nbsp;
 <img src="" alt="">&nbsp;
@@ -68,42 +67,24 @@
 ## 📊 &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="#"><img src="https://badges.pufler.dev/repos/bernstrom"></a>
-  <a href="#"><img src="https://badges.pufler.dev/gists/bernstrom"></a>
-  <a href="#"><img src="https://badges.pufler.dev/commits/monthly/bernstrom"></a>
-  <a href="#"><img src="https://badges.pufler.dev/visits/bernstrom/bernstrom"></a>
+  <a href="#"><img src="https://badges.pufler.dev/repos/bilalkhalidshaikh"></a>
+  <a href="#"><img src="https://badges.pufler.dev/gists/bilalkhalidshaikh"></a>
+  <a href="#"><img src="https://badges.pufler.dev/commits/monthly/bilalkhalidshaikh"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/bilalkhalidshaikh/bilalkhalidshaikh"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bilalkhalidshaikh">
-    <img src="https://github-readme-stats.vercel.app/api?username=bernstrom&count_private=true&show_icons=true&theme=prussian" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=bilalkhalidshaikh&count_private=true&show_icons=true&theme=prussian" width="400">
   </a>
   
   <a href="https://github.com/bilalkhalidhshaikh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernstrom&langs_count=10&layout=compact&theme=prussian&hide=stylus,scss,php,shell,dockerfile" width="335">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkhalidshaikh&langs_count=10&layout=compact&theme=prussian&hide=stylus,scss,php,shell,dockerfile" width="335">
   </a>
 </p>
 
 ## ☕️ &nbsp;Power Supply Support
 
 <p align='center'>
-  <a href="https://www.buymeacoffee.com/bernstrom"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bernstrom&button_colour=ff813f&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+  <a href="https://www.buymeacoffee.com/bilalkhalid"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bilalkhalid&button_colour=ff813f&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 </p>
-
-
-
-
-<!--
-**BernStrom/BernStrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
