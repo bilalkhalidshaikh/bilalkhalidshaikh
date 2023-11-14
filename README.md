@@ -23,7 +23,7 @@
 | Android Studio      | TypeScript           | Node.js              | GitHub              |
 | React Native        | React                | Express.js           | Markdown            |
 | Expo                | Next.Js              | MongoDB              | Firebase            |
-|                     | Gatsby               |                      | Jest                |
+| Kotlin              | Gatsby               |                      | Jest                |
 |                     | CSS3                 |                      | ESLint              |
 |                     | HTML5                |                      | Prettier            |
 
