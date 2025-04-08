@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[PROFILE]" target="_blank">
+  <a href="https://www.linkedin.com/in/bilalkhalidshaikh" target="_blank">
     <img src="https://img.shields.io/badge/-Strategic%20Collaboration-%2300C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
