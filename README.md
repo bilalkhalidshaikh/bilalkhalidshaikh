@@ -1,67 +1,38 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Blockchain+Architect;Enterprise+Systems+Scalability+Leader;Generative+Agentic+Workflows+Specialist" alt="Header Typing Animation" />
-</h1>
+# Muhammad Bilal Khalid
+**Autonomous Systems Architect | Principal Engineer**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bilalkhalidshaikh" target="_blank">
-    <img src="https://img.shields.io/badge/-Strategic%20Collaboration-%2300C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+> Specializing in the orchestration of multi-agent LLM workflows, distributed agentic systems, and high-performance cloud-native infrastructure.
 
 ---
 
-### 🛠️ **Who Am I?**  
-**Bilal**  
-*Enterprise Architect | AI Agentic Systems Designer | Blockchain-CLOUD Synergy Expert*  
-**Core Stack**: `React` `TensorFlow` `Solidity` `Kubernetes` `LangGraph` `Neon` `CrewAI`  
+### 🛡️ Technical Philosophy
+I build systems that converge **Agentic AI** and **Cloud-Native Infrastructure** to solve complex operational challenges. My focus is on **Spec-Driven Development** and **Autonomous Orchestration**—reducing human latency in the enterprise loop.
 
-**Vision**: *Building autonomous systems where AI, blockchain, and cloud-native architectures converge to solve trillion-dollar enterprise challenges.*
-
----
-
-### 🌟 **Core Competencies**  
-#### **AI/ML Engineering**  
-- **Agentic Systems**: CrewAI, Autogen, LangGraph, OpenAI Agents SDK  
-- **LLM Ops**: RAG Pipelines, Fine-tuning, OpenRouter Integration, LangMem  
-- **Edge AI**: TensorFlow.js, WebGPU/WebAssembly, ONNX Runtime  
-- **Generative AI**: Stable Diffusion, GPT-4 Turbo, Llama 3  
-
-#### **Blockchain Development**  
-- **Smart Contracts**: Solidity, Vyper, Move  
-- **DeFi Protocols**: AMMs, Lending/Borrowing Systems  
-- **Enterprise Chains**: Hyperledger Besu, Polygon CDK  
-- **Privacy**: zk-SNARKs, Homomorphic Encryption  
-
-#### **Cloud-Native Architecture**  
-- **Orchestration**: Kubernetes (ArgoCD, Istio), Dapr Sidecars  
-- **Serverless**: AWS Lambda, Vercel Edge, Neon Postgres  
-- **Event-Driven**: Kafka, RabbitMQ, Redis Streams  
-- **Security**: Zero-Trust, GDPR/CCPA Compliance  
-
-#### **Full-Stack Engineering**  
-- **Frontend**: React, Next.js 15, Vercel AI SDK  
-- **Backend**: Node.js, FastAPI, GraphQL  
-- **Mobile**: React Native, Expo, TensorFlow Lite  
-- **Database**: CockroachDB, Neo4j, Pinecone  
+### 🛠️ Core Stack & Orchestration
+* **Agentic Frameworks:** LangGraph, CrewAI, AutoGen, OpenAI Assistants SDK.
+* **Infrastructure:** Kubernetes (EKS/GKE), Terraform, Dapr, Kafka, Redis Streams.
+* **Intelligence:** GPT-4o, Llama 3 (Ollama/Groq), RAG (Pinecone, Weaviate), LangMem.
+* **Full-Stack:** Next.js 15, FastAPI, Node.js, Rust (Wasm).
 
 ---
 
-### 🏭 **Enterprise Solutions**  
-| **Domain**                | **Tech Stack**                          | **Business Impact**                |
-|---------------------------|-----------------------------------------|-------------------------------------|
-| AI-Powered Predictive Maintenance | TensorFlow.js + Kafka + Kubernetes | 40% Operational Cost Reduction      |
-| Blockchain Supply Chain   | Solidity + Hyperledger + LangChain      | 99.9% Audit Compliance              |
-| Agentic Customer Service  | CrewAI + Pinecone + Neon                | 300% Support Efficiency Gain        |
-| Real-Time Fraud Detection | PyTorch + Kafka Streams + Redis         | $22M Annual Fraud Prevention        |
+### 🏛️ Representative Systems Architecture
+*Selected architectural deployments engineered for Getters (Toronto) and private clients:*
+
+| System | Architecture Pattern | Core Innovation |
+| :--- | :--- | :--- |
+| **Presenza** | Multi-Agent Content Ingestion | Automated unstructured data synthesis into personal web footprints. |
+| **The Handler** | LangGraph Cyclic Orchestration | State-machine driven autonomous team management. |
+| **Autonomous Support** | CrewAI + Pinecone + Neon | 300% Support Efficiency via persistent agentic memory. |
+| **Real-Time Fraud Engine** | PyTorch + Kafka Streams + Redis | $22M Annual Fraud Prevention via low-latency stream processing. |
 
 ---
 
-### 🚀 **Tech Radar (2025)**  
-```mermaid
-pie
-    title Emerging Technology Focus
-    "Quantum ML": 35
-    "Neuromorphic Chips": 25
-    "AI Agentic Workflows": 20
-    "Decentralized LLMs": 15
-    "Post-Quantum Blockchain": 5
+### 📡 Active Technical Focus (2026)
+* **Presence-as-a-Service:** Optimizing the **Presenza** engine for zero-shot digital branding automation.
+* **Multi-Agent Orchestration:** Building stateful, cyclic graphs using LangGraph for complex decision-making in **The Handler**.
+* **Edge Intelligence:** Deploying quantized models for zero-latency local execution via WebGPU/Wasm.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/bilalkhalidshaikh) • [Portfolio (Presenza)](https://presenza.me) • [Engineering Blog](https://getters.ca)
